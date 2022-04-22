@@ -1,4 +1,4 @@
-- 👋 Hi, I’m atoroe, beginner developer in Java/Python
+- 👋 Hi, I’m atoroe, beginner developer in Java/Python/C++
 - 🌱 I’m currently learning C++/Java
 <p align='center'>
    <a href="https:/discord.com/users/701688835976724532">
