@@ -1,7 +1,7 @@
 - 👋 Hi, I’m atoroe, beginner developer in Java/Python/C++
 - 🌱 I’m currently learning C++/Java
 <p align='center'>
-   <a href="discord.com/users/701688835976724532">
+   <a href="https://discord.com/users/701688835976724532">
        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
    </a>
    <a href="https://t.me/Atoroe">
